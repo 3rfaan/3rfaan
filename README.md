@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3rfaan
-- 👀 I’m interested in programming, computers in general and religion.
+- 👀 I’m interested in programming, computers in general and Islam.
 - 🌱 I’m currently learning the C Programming Language.
-- 💞️ I’m looking to collaborate on Open Source projects.
+- 👉🏼 I’m looking to work remotely as a freelancer or in team.
 
 <!---
 3rfaan/3rfaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
