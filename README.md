@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @3rfaan
 - 👀 I’m interested in programming, computers in general and Islam.
-- 🌱 I’m currently learning the C Programming Language.
+- 🌱 I’m currently learning the C Programming Language and Rust.
+- 🦀 My favorite programming language is Rust
 - 👉🏼 I’m looking to work remotely as a freelancer or in a team.
 
 <!---
